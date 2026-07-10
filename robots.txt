@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /.well-known/
+
+Sitemap: https://santiagogarciafisio.es/sitemap.xml
